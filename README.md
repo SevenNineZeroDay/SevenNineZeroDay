@@ -28,6 +28,8 @@
 
 ![Static Badge](https://img.shields.io/badge/HackTheBox-brightgreen?style=plastic&logo=HTB&logoColor=rgb&labelColor=green&color=green)
 ![Static Badge](https://img.shields.io/badge/TryHackMe-brightgreen?style=plastic&logo=THM&logoColor=rgb&labelColor=green&color=green)
+![Static Badge](https://img.shields.io/badge/YesWeHack-brightgreen?style=plastic&logo=YesWeHack&labelColor=white&color=white)
+
 
 
 
