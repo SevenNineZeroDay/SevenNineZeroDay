@@ -8,5 +8,8 @@
 ![Static Badge](https://img.shields.io/badge/Kali-Linux-brightblue?style=plastic&logoColor=rgb&labelColor=white&color=blue)
 ![Static Badge](https://img.shields.io/badge/Parrot-OS-bright?style=plastic&logoColor=rgb&color=blue) 
 ![Static Badge](https://img.shields.io/badge/Windows-OS-brightred?style=plastic&logoColor=RGB&labelColor=yellow&color=blue)
+
 ![Static Badge](https://img.shields.io/badge/VMware-brightgreen?style=plastic&logo=VMware&logoColor=rgb&labelColor=gray&color=gray)
-![Static Badge](https://img.shields.io/badge/VirtualBox-brightgreen?style=plastic&logo=VMware&logoColor=rgb&labelColor=gray&color=gray)
+![Static Badge](https://img.shields.io/badge/VirtualBox-brightgreen?style=plastic&logo=VirtualBox&logoColor=rgb&labelColor=gray&color=gray)
+
+![Static Badge](https://img.shields.io/badge/Gophish-brightgreen?style=plastic&logoColor=rgb&labelColor=skyblue&color=skyblue)
